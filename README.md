@@ -1,11 +1,16 @@
 # my-portfolio
 My Professional profile
+![nav](https://user-images.githubusercontent.com/95305672/154869375-fa3de104-7b5a-42df-93fd-aea4280c4c10.png)
 
 
 
 
 
 https://zainuabidin.github.io/my-portiflio/?
+![main](https://user-images.githubusercontent.com/95305672/154869389-239d5d26-b63b-42d1-952b-2ffe6c13ee9d.png)
+![section](https://user-images.githubusercontent.com/95305672/154869394-37baf482-78c1-4b19-9150-b57b52869357.png)
+![footer](https://user-images.githubusercontent.com/95305672/154869404-87f8a95c-2823-48aa-97b1-19325d24e580.png)
+![complete](https://user-images.githubusercontent.com/95305672/154869412-5ba20968-336f-4359-bd9c-4f0b1eabd8cd.png)
 
 
 Technologies used in this project 
