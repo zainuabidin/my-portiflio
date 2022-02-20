@@ -1,0 +1,58 @@
+
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+  .button-space{
+      margin: 10px 10px 10px 10px ;
+  }
+
+  .figure-size{
+   height: 600px;
+   
+  }
+  .box-size{
+      width: 450px;
+      height: 600px;
+      color: aliceblue;
+      background:black;
+
+  }
+  h1{
+    font-family: 'Permanent Marker', cursive;
+    font: size 60px;
+  }
+ p{
+    padding: 95px;
+    font-size: x-large;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+ }
+ .img-size{
+    height: 200px;
+    width: auto;
+    margin-bottom: 20px;
+
+ }
+ hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+  .card-size{
+    
+     width: 80%;
+     margin-left: 150px;
+     
+     
+  }
+  section{
+      background-color:blanchedalmond;
+  }
+  main{
+      background-color: blanchedalmond;
+  }
