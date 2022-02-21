@@ -21,6 +21,8 @@
   h1{
     font-family: 'Permanent Marker', cursive;
     font: size 60px;
+    background-color: black;
+    color: white;
   }
  p{
     padding: 95px;
@@ -56,4 +58,12 @@
  }
 .card-color{
     background-color: yellow;
+}
+section{
+    background-color: cyan;
+
+}
+footer{
+    background-color: tomato;
+    height: 30px;
 }
