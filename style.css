@@ -47,12 +47,13 @@
     
      width: 80%;
      margin-left: 150px;
+     background-color: brown;
+  }
      
      
-  }
-  section{
-      background-color:blanchedalmond;
-  }
-  main{
-      background-color: blanchedalmond;
-  }
+ main{
+     background-color:purple;
+ }
+section{
+    background-color: yellow;
+}
